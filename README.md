@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gabriel Cavalheiro.
-- 👀 I’m interested in BackEnd development of applications using Javascript/Typescript and NodeJS.
-- 🌱 I’m currently learning Javascript and its ecosystem. I have worked with ElectronJS, Pupperteer, ExpressJS and Venom-bot.
-- 💞️ I’m looking to collaborate on open source projects and development teams.
-- 📫 My twitter is @ CavalheiroGa3 and my contact email is ga3-cavalheiro@hotmail.com
+- 👋 Olá, me chamo Gabriel Cavalheiro.
+- 👀 Atualmente estou interessado em desenvolvimento backend com python e suas bibliotecas. 
+- 🌱 Recentemente estou estudando o framework Flask e seu ecossistema. Também prático quase que diariamente técnicas de web-scraping com Selenium e BS4.
+- 💞️ Quero colaborar em projetos open source e desenvolver em times.
+- 📫 Meu Twitter é @CavalheiroGa3 e meu e-mail de contato é ga3-cavalheiro@hotmail.com
 
 <!---
 CavalheiroDev/CavalheiroDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
