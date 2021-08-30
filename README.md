@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Gabriel Cavalheiro.
 - 👀 Atualmente estou interessado em desenvolvimento backend com python e suas bibliotecas. 
-- 🌱 Recentemente estou estudando o framework Flask e seu ecossistema. Também prático quase que diariamente técnicas de web-scraping com Selenium e BS4.
+- 🌱 Recentemente estou estudando os frameworks FastAPI e Django e seu ecossistema. Também prático quase que diariamente.
 - 💞️ Quero colaborar em projetos open source e desenvolver em times.
 - 📫 Meu Twitter é @CavalheiroGa3 e meu e-mail de contato é ga3-cavalheiro@hotmail.com
 
